@@ -1,8 +1,8 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "MyAccount_COSMOSDB": "https://cosdba-leroacs.documents.azure.com:443/;AccountKey=K1f0lFCoDaE8pWjZV3MIr3i87T72cR8xQFLz9YR4uBzRz07MIm9SsfRWk8YOCA1p7i5hht8hBwpsACDbaC6LVQ==;",
-    "ACS_ConnectionString": "https://acsvc-leroacs.communication.azure.com/;accesskey=fITBQrE1xELTO1GG1klPBFEV4k6NfF+nHu3rPqPs10AgVO5/ia7ys8HSsRotW5J54YhxdbkpSPRHAXRyyHNLwQ==",
+    "MyAccount_COSMOSDB": "AccountEndpoint=https://cosdba-leroacs.documents.azure.com:443/;AccountKey=K1f0lFCoDaE8pWjZV3MIr3i87T72cR8xQFLz9YR4uBzRz07MIm9SsfRWk8YOCA1p7i5hht8hBwpsACDbaC6LVQ==;",
+    "ACS_ConnectionString": "endpoint=https://acsvc-leroacs.communication.azure.com/;accesskey=fITBQrE1xELTO1GG1klPBFEV4k6NfF+nHu3rPqPs10AgVO5/ia7ys8HSsRotW5J54YhxdbkpSPRHAXRyyHNLwQ==",
     "FUNCTIONS_WORKER_RUNTIME": "node"
   }
 }
